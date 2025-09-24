@@ -124,20 +124,6 @@ df = pd.read_csv('heart_disease_data.csv')
 python heart_disease_prediction.ipynb
 ```
 
-## Results
-
-- **Best Model**: [To be updated based on results]
-- **Accuracy Achieved**: [To be updated based on results]
-- **Key Insights**: [To be updated based on analysis]
-
-## Future Improvements
-
-- Implement additional algorithms (SVM, Neural Networks)
-- Feature selection techniques
-- Ensemble methods
-- Cross-validation strategies
-- Model interpretability analysis
-
 ## Contributing
 
 1. Fork the repository
